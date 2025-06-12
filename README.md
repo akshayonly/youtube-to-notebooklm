@@ -27,3 +27,5 @@ git clone https://github.com/akshayonly/youtube-to-notebooklm.git
 cd youtube-to-notebooklm
 ```
 ---
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
